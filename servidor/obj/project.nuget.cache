@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "HXyCLuzFz9LiSULFRi2h4GEQ0yYT4TUrc5yyC2fCrBw1bhUMGMme8DdR5A9n7OMwMrUBsXkFmpZ9YO7VpocvGQ==",
+  "success": true,
+  "projectFilePath": "/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/gRPCc#Audio/servidor/servidor.csproj",
+  "expectedPackageFiles": [
+    "/Users/cesar/.nuget/packages/google.protobuf/3.24.0/google.protobuf.3.24.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/grpc.aspnetcore/2.62.0/grpc.aspnetcore.2.62.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/grpc.aspnetcore.server/2.62.0/grpc.aspnetcore.server.2.62.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/grpc.aspnetcore.server.clientfactory/2.62.0/grpc.aspnetcore.server.clientfactory.2.62.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/grpc.core.api/2.62.0/grpc.core.api.2.62.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/grpc.net.client/2.62.0/grpc.net.client.2.62.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/grpc.net.clientfactory/2.62.0/grpc.net.clientfactory.2.62.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/grpc.net.common/2.62.0/grpc.net.common.2.62.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/grpc.tools/2.62.0/grpc.tools.2.62.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/microsoft.extensions.http/6.0.0/microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/cesar/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
